@@ -1,5 +1,9 @@
 import { useEffect, useState } from 'react'
-import { setup, setInitialConfig, setPaymentConfig } from '@dankira/izipay'
+
+// Funciones stub para @dankira/izipay (librería removida)
+const setInitialConfig = () => {}
+const setPaymentConfig = () => {}
+const setup = async (callback) => callback(null)
 
 const PAYMENT_AMOUNT = 19.9
 
