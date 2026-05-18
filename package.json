@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dankira/izipay": "file:dankira-izipay-2.1.1.tgz",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
